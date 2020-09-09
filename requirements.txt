@@ -1,6 +1,6 @@
 alpha_vantage
 pandas
-numpy
+numpy==1.19.1
 sklearn
 keras
 tensorflow
